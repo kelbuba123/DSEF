@@ -1,0 +1,6 @@
+{
+    "token": "NDg3NTQ0NTc5NDkxMzY0ODY0.DnPNKg.D8evp7D6DP-hX07UKcUShEDVB6Y",
+    "prefix": "r!",
+    "commanddir": "/Users/ben/Desktop/BotWorld-master/commands/",
+    "commands": ["basic", "fun", "admin", "economy", "music"]
+}
